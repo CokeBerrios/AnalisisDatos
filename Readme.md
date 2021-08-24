@@ -1,14 +1,14 @@
-<center>
+
  
- # <img src="https://github.com/malegria01/AnalisisDatos/blob/main/img/data_analysis.png" alt="drawing" width="70"> Análisis de datos 
+ #<img aling src="https://github.com/malegria01/AnalisisDatos/blob/main/img/data_analysis.png" alt="drawing" width="70"> Análisis de datos 
  
- </center>
+
 
 
 # Curso de Análisis de datos ACI777 Facultad Ingeniería y Negocios UDLA.
 
 ## Profesora: Melissa Alegría. 
-(Si tienes alguna duda, contactare a melissaa@udla.cl)
+(Si tienes alguna duda, escribir a melissaa@udla.cl)
  
 ##### Aquí encontrarás parte del material del curso como clases en pdf, anuncios, links a material suplementario. Recordar que la plataforma blackboard es el canal oficial de información.
 
