@@ -1,5 +1,7 @@
 <center>
+ 
  # <img src="https://github.com/malegria01/AnalisisDatos/blob/main/img/data_analysis.png" alt="drawing" width="70"> Análisis de datos 
+ 
  </center>
 
 
