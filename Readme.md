@@ -28,11 +28,7 @@ En esta unidad veremos una introducción a todo lo que es el análisis de datos 
 
 1. Introducción al análisis de datos, toolkit y ejemplos prácticos.
 2. Repaso de Python.
-3. Paqutes para cálculo científico, ciencia de datos y aprendizaje automático.
-
-### Clases
-
-
+3. Paquetes para cálculo científico, ciencia de datos y aprendizaje automático.
 
 ## Unidad II - Estadística descriptiva/predictiva, Datos y Pandas
 
