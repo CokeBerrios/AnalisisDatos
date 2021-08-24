@@ -1,6 +1,5 @@
-<img src="https://github.com/malegria01/AnalisisDatos/blob/main/img/data_analysis.png" alt="drawing" width="50"> Análisis de datos 
+# <img src="https://github.com/malegria01/AnalisisDatos/blob/main/img/data_analysis.png" alt="drawing" width="70"> Análisis de datos 
 
-![](https://github.com/malegria01/AnalisisDatos/blob/main/img/data_analysis.png =50x50)
 
 # Curso de Análisis de datos ACI777 Facultad Ingeniería y Negocios UDLA.
 
