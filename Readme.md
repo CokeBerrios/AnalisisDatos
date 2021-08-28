@@ -67,7 +67,7 @@ Clases
 
 ![Notebook1](notebooks/Clase1.ipynb)
 
-archivo_csv
+![archivo_csv](data/cars.csv)
 
 ## Clase2
 
