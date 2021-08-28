@@ -61,7 +61,6 @@ En esta unidad repasaremos herramientas de estadística descriptiva y luego expl
 Clases
 ========================
 
-Clase1
 ![Clase1](Clases/Clase1.pdf)
 
 Notebook1
