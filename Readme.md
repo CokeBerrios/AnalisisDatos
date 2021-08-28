@@ -69,9 +69,9 @@ Clases
 
 ![archivo_csv](data/cars.csv)
 
-[link grabacion1!](https://udla.zoom.us/rec/share/ktBUUZNGP58JSi052J729PBZMvxaj5bhCKRIPxE3DAAmF1Cwcs0sm2IQ7wdDl6AV.X-aq3I6x_l4xhYJR)
+[link grabacion1](https://udla.zoom.us/rec/share/ktBUUZNGP58JSi052J729PBZMvxaj5bhCKRIPxE3DAAmF1Cwcs0sm2IQ7wdDl6AV.X-aq3I6x_l4xhYJR)
 
-[link grabacion2!](https://udla.zoom.us/rec/share/QMTm2US-4zoD7Z4so0SmILiYyyYGpYL8DIMp13El6Fxh39Gi2xzWGkzmgJrTJH8f.hZ43u-Ms6JZTYcFK)
+[link grabacion2](https://udla.zoom.us/rec/share/QMTm2US-4zoD7Z4so0SmILiYyyYGpYL8DIMp13El6Fxh39Gi2xzWGkzmgJrTJH8f.hZ43u-Ms6JZTYcFK)
 
 
 ## Clase2
@@ -81,4 +81,4 @@ Clases
 
 ![Notebook2](notebooks/RepasoPython1.ipynb)
 
-[link grabacion!](https://udla.zoom.us/rec/share/OyFMyBnTp-FgA6lSEv5MJATJPFI9N-_GNKtkhPS-PvtSnEvXfLTD6vqXBg0aYtna.jbjtiGFqRb8zK6rS)
+[link grabacion](https://udla.zoom.us/rec/share/OyFMyBnTp-FgA6lSEv5MJATJPFI9N-_GNKtkhPS-PvtSnEvXfLTD6vqXBg0aYtna.jbjtiGFqRb8zK6rS)
