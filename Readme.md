@@ -66,3 +66,5 @@ Clase1
 Notebook1
 
 archivo_csv
+
+<center>Centered text</center>
