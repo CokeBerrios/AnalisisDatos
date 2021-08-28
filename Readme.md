@@ -62,6 +62,7 @@ Clases
 ========================
 
 Clase1
+![Clase1](Clases/Clase1.pdf)
 
 Notebook1
 
