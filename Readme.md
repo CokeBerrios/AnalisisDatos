@@ -27,7 +27,7 @@ y poder realizar el procesamiento para la construcción de modelos predictivos. 
 En esta unidad veremos una introducción a todo lo que es el análisis de datos y mostraremos ejemplos de diversos trabajos donde el análisis de datos es relevante. Adicionalmente, instalaremos los toolkits/herramientas necesarias que utilizaremos durante el curso.
 
 1. Introducción al análisis de datos, toolkit y ejemplos prácticos.
-2. Repaso de Python.
+2. Repaso de Python I y II.
 3. Paquetes para cálculo científico, ciencia de datos y aprendizaje automático.
 
 ## Unidad II - Estadística descriptiva/predictiva, Datos y Pandas
