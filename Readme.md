@@ -61,8 +61,17 @@ En esta unidad repasaremos herramientas de estadística descriptiva y luego expl
 Clases
 ========================
 
-![Clase1](Clases/Clase1.pdf)
+##Clase1
 
-Notebook1
+![Clase1_pdf](Clases/Clase1.pdf)
+
+![Notebook1](notebooks/Clase1.ipynb)
 
 archivo_csv
+
+##Clase2
+
+![Clase2_pdf](Clases/Clase2.pdf)
+
+
+![Notebook2](notebooks/RepasoPython1.ipynb)
