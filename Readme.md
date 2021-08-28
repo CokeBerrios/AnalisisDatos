@@ -56,3 +56,10 @@ En esta unidad repasaremos herramientas de estadística descriptiva y luego expl
 ## Unidad V - Deep Learning
 
 1. Redes neuronales.
+
+# Clases
+
+## Clase 1
+Clase1
+Notebook1
+archivo_csv
