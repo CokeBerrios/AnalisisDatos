@@ -57,9 +57,9 @@ En esta unidad repasaremos herramientas de estadística descriptiva y luego expl
 
 1. Redes neuronales.
 
-# Clases
 
-##<p style="text-align: center;">
+
+<p style="text-align: # Clases;">
 
 Clase1
 
