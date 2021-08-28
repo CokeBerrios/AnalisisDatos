@@ -59,7 +59,7 @@ En esta unidad repasaremos herramientas de estadística descriptiva y luego expl
 
 # Clases
 
-## Clase 1
+##<p style="text-align: center;">
 
 Clase1
 
