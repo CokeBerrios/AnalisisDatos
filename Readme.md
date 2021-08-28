@@ -62,5 +62,7 @@ En esta unidad repasaremos herramientas de estadística descriptiva y luego expl
 ## Clase 1
 
 Clase1
+
 Notebook1
+
 archivo_csv
