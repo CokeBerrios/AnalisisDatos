@@ -58,13 +58,11 @@ En esta unidad repasaremos herramientas de estadística descriptiva y luego expl
 1. Redes neuronales.
 
 
-
-<p align="center">#centered text</p>
+Clases
+========================
 
 Clase1
 
 Notebook1
 
 archivo_csv
-
-<center>Centered text</center>
