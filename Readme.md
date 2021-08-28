@@ -61,7 +61,7 @@ En esta unidad repasaremos herramientas de estadística descriptiva y luego expl
 Clases
 ========================
 
-##Clase1
+## Clase1
 
 ![Clase1_pdf](Clases/Clase1.pdf)
 
@@ -69,7 +69,7 @@ Clases
 
 archivo_csv
 
-##Clase2
+## Clase2
 
 ![Clase2_pdf](Clases/Clase2.pdf)
 
