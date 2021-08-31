@@ -85,4 +85,4 @@ Clases
 
 ## Clase3
 
-![Notebook2](notebooks/RepasoPythonII.ipynb)
+![Notebook3](notebooks/RepasoPythonII.ipynb)
