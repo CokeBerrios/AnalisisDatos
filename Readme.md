@@ -82,3 +82,7 @@ Clases
 ![Notebook2](notebooks/RepasoPython1.ipynb)
 
 [link grabacion](https://udla.zoom.us/rec/share/OyFMyBnTp-FgA6lSEv5MJATJPFI9N-_GNKtkhPS-PvtSnEvXfLTD6vqXBg0aYtna.jbjtiGFqRb8zK6rS)
+
+## Clase3
+
+![Notebook2](notebooks/RepasoPythonII.ipynb)
